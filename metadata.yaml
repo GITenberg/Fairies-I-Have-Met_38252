@@ -1,0 +1,43 @@
+_repo: Fairies-I-Have-Met_38252
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dulac, Edmund
+    alias: Dulac, Edmond
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '7657'
+    url: http://www.gutenberg.org/2009/agents/7657
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
+covers:
+- cover_type: archival
+  image_path: 38252-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Stawell, Rodolph, Mrs.
+    aliases:
+    - Key, Maud Margaret
+    - Stawell, Maud Margaret Key
+    - Stawell, Mrs. Rodolph
+    gutenberg_agent_id: '39350'
+    url: http://www.gutenberg.org/2009/agents/39350
+description: ''
+gutenberg_issued: '2011-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Fairies -- Juvenile fiction'
+tableOfContents: The bird of shadows and the sun-bird -- The sea-fairy and the land-fairy,
+  and how they quarrelled -- Princess Orchid's party -- The cloud that had no lining
+  -- The fairies who changed places -- The making of the opal -- The big spider's
+  diamonds -- A little girl in a book -- The fairy who was looking for a home -- The
+  box of dreams -- The fairy who had only one wing -- The little boy from town.
+title: Fairies I Have Met
+url: http://www.gutenberg.org/ebooks/38252
